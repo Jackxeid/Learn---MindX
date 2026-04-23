@@ -1,0 +1,501 @@
+﻿Gender,Age at enrollment,Marital status,Application mode,Course,Scholarship holder,Admission grade,Curricular units 1st sem (enrolled),Curricular units 1st sem (approved),Curricular units 1st sem (grade),Curricular units 2nd sem (grade),Target
+Male,37,Single,Transfer,Management,No,113.2,4,2,12.4,14.2,Graduate
+Female,39,Single,Special,Psychology,Yes,128.4,4,3,13.9,15.3,Enrolled
+Male,17,Single,Transfer,Engineering,Yes,115.2,4,3,12.9,16.3,Graduate
+Male,19,Single,Online,Computer Science,Yes,123.0,4,3,14.1,13.9,Dropout
+Male,34,Single,Exam,Psychology,No,151.5,7,5,12.3,11.7,Enrolled
+Female,26,Single,Special,Management,Yes,125.9,5,5,11.4,13.3,Graduate
+Male,38,Single,Exam,Psychology,No,151.0,5,3,12.4,13.0,Graduate
+Male,19,Single,Transfer,Economics,No,146.6,4,3,10.3,12.2,Graduate
+Male,24,Married,Exam,Computer Science,Yes,124.6,4,3,11.2,12.3,Graduate
+Female,30,Single,Exam,Management,Yes,122.5,5,3,12.4,9.2,Graduate
+Male,34,Single,Special,Engineering,Yes,116.6,7,6,12.3,12.9,Graduate
+Male,31,Other,Online,Management,No,116.0,6,4,11.8,12.3,Dropout
+Male,38,Single,Exam,Engineering,Yes,135.3,6,5,9.2,9.4,Graduate
+Male,39,Married,Online,Management,No,129.7,5,5,13.3,13.1,Dropout
+Female,18,Single,Transfer,Psychology,No,120.6,4,4,13.7,11.3,Graduate
+Male,26,Married,Exam,Psychology,No,106.8,4,3,15.3,16.6,Enrolled
+Female,18,Single,Special,Psychology,No,131.6,7,5,12.9,13.5,Graduate
+Female,33,Married,Transfer,Economics,No,123.0,6,6,12.0,13.7,Enrolled
+Female,24,Single,Transfer,Engineering,No,127.1,7,5,10.0,7.7,Graduate
+Male,17,Single,Special,Psychology,Yes,134.6,6,5,15.0,15.8,Graduate
+Female,25,Single,Exam,Economics,Yes,92.5,5,3,12.5,12.1,Enrolled
+Male,27,Single,Exam,Engineering,No,107.0,6,6,12.4,12.6,Graduate
+Female,38,Married,Transfer,Management,No,164.4,7,5,11.5,11.2,Enrolled
+Female,32,Married,Exam,Economics,No,122.4,7,5,11.4,12.2,Graduate
+Female,23,Single,Online,Computer Science,Yes,92.2,7,6,13.4,13.2,Graduate
+Female,26,Married,Special,Economics,Yes,108.3,5,4,10.0,8.4,Enrolled
+Female,39,Single,Online,Economics,No,167.3,6,5,15.3,15.4,Graduate
+Female,19,Single,Exam,Engineering,Yes,119.5,6,6,14.8,14.5,Dropout
+Female,34,Single,Transfer,Management,No,147.4,7,7,11.3,11.2,Dropout
+Female,29,Married,Special,Computer Science,No,131.8,6,5,10.3,5.5,Graduate
+Male,23,Single,Exam,Psychology,No,122.7,4,3,8.0,9.0,Dropout
+Male,20,Single,Exam,Psychology,No,141.6,4,4,9.5,9.0,Graduate
+Female,29,Married,Transfer,Economics,No,94.2,4,4,13.5,11.5,Graduate
+Female,36,Single,Transfer,Engineering,Yes,108.4,6,6,12.6,14.0,Dropout
+Female,17,Single,Online,Engineering,No,122.6,5,5,13.0,14.0,Graduate
+Male,24,Single,Special,Psychology,No,109.9,5,4,8.3,7.8,Dropout
+Female,30,Single,Special,Computer Science,No,121.3,5,5,11.2,9.5,Enrolled
+Male,32,Single,Transfer,Management,Yes,142.8,5,4,14.7,15.0,Dropout
+Male,30,Single,Online,Computer Science,No,132.0,4,2,11.8,12.0,Enrolled
+Male,28,Single,Special,Management,No,150.0,4,2,9.5,10.9,Enrolled
+Male,35,Single,Transfer,Psychology,Yes,132.9,7,7,11.8,11.1,Enrolled
+Male,39,Single,Exam,Management,Yes,144.9,6,4,10.5,12.3,Graduate
+Female,31,Married,Special,Engineering,No,129.0,6,4,12.7,11.9,Graduate
+Female,18,Single,Online,Economics,No,121.1,5,3,12.0,10.0,Graduate
+Female,18,Single,Online,Economics,No,152.2,4,4,13.1,11.4,Graduate
+Female,39,Single,Online,Psychology,Yes,119.4,5,5,9.6,9.5,Graduate
+Female,38,Single,Exam,Engineering,Yes,135.2,7,5,11.1,11.0,Enrolled
+Male,35,Single,Special,Computer Science,No,141.5,6,5,14.2,14.7,Graduate
+Female,38,Married,Special,Engineering,No,142.6,6,4,9.3,9.2,Graduate
+Female,38,Single,Exam,Economics,No,112.5,5,5,10.0,11.5,Enrolled
+Male,33,Single,Special,Economics,No,145.8,7,7,12.4,12.0,Graduate
+Female,36,Single,Exam,Engineering,No,115.3,6,6,12.6,9.6,Graduate
+Male,26,Single,Exam,Engineering,No,142.2,7,5,11.0,10.8,Graduate
+Female,22,Married,Exam,Economics,No,138.0,7,6,11.4,8.4,Graduate
+Male,31,Single,Online,Computer Science,No,142.3,5,5,13.1,13.5,Enrolled
+Female,38,Single,Special,Psychology,No,111.9,4,4,13.7,15.3,Enrolled
+Female,27,Single,Exam,Psychology,No,138.8,5,3,9.9,8.4,Dropout
+Male,21,Single,Special,Engineering,No,146.3,4,3,12.7,14.8,Graduate
+Male,17,Married,Online,Psychology,Yes,132.9,7,5,15.0,16.3,Dropout
+Male,24,Single,Exam,Economics,No,117.7,4,4,11.8,13.6,Graduate
+Male,37,Married,Transfer,Economics,Yes,143.8,7,6,9.8,10.1,Dropout
+Male,28,Single,Online,Engineering,No,131.7,6,5,9.7,8.2,Dropout
+Male,28,Married,Transfer,Engineering,No,104.9,6,6,11.7,12.9,Enrolled
+Male,21,Single,Special,Engineering,No,116.6,6,5,14.1,13.2,Graduate
+Male,23,Single,Special,Computer Science,Yes,122.1,5,4,11.9,12.1,Dropout
+Female,20,Single,Online,Psychology,No,152.6,5,3,12.4,12.1,Enrolled
+Female,22,Other,Special,Engineering,No,150.0,7,7,10.0,11.7,Enrolled
+Male,29,Married,Transfer,Management,Yes,149.9,6,6,14.0,15.1,Enrolled
+Female,36,Single,Exam,Management,Yes,133.5,5,5,9.7,9.6,Dropout
+Female,31,Married,Exam,Economics,Yes,143.7,6,6,11.0,8.1,Graduate
+Female,19,Single,Exam,Psychology,Yes,112.9,5,5,13.3,12.3,Graduate
+Female,39,Other,Online,Engineering,No,130.1,4,3,7.9,9.0,Dropout
+Male,24,Single,Special,Management,No,136.8,4,2,12.3,12.7,Graduate
+Female,36,Married,Transfer,Psychology,No,113.9,6,6,9.9,7.6,Graduate
+Male,32,Married,Special,Economics,No,133.1,7,5,12.0,9.3,Graduate
+Female,29,Married,Special,Computer Science,Yes,155.3,5,3,11.3,11.6,Graduate
+Female,34,Single,Special,Psychology,No,138.4,5,4,16.2,14.6,Graduate
+Female,26,Single,Exam,Psychology,Yes,143.8,4,4,11.2,9.8,Graduate
+Male,35,Married,Transfer,Computer Science,No,93.2,4,3,15.7,16.7,Graduate
+Female,33,Single,Transfer,Psychology,No,153.4,7,7,13.2,15.0,Enrolled
+Male,35,Other,Special,Economics,No,127.2,7,6,10.4,9.3,Graduate
+Female,39,Married,Exam,Economics,No,118.5,7,5,12.7,12.6,Graduate
+Male,21,Single,Exam,Computer Science,Yes,127.4,6,6,11.4,11.3,Dropout
+Female,37,Married,Transfer,Engineering,Yes,107.7,4,2,12.5,12.3,Enrolled
+Male,39,Single,Exam,Management,Yes,145.7,6,4,10.6,10.7,Graduate
+Male,25,Married,Exam,Engineering,No,125.0,4,3,15.4,16.5,Graduate
+Female,28,Married,Exam,Psychology,Yes,118.9,4,4,13.9,12.9,Enrolled
+Male,37,Single,Online,Management,No,127.5,5,3,12.1,9.8,Graduate
+Female,17,Single,Special,Computer Science,No,146.8,4,3,15.5,18.0,Dropout
+Female,17,Married,Transfer,Computer Science,No,132.0,4,4,12.1,13.7,Enrolled
+Female,31,Single,Transfer,Management,Yes,108.9,6,6,14.2,12.5,Graduate
+Female,18,Single,Online,Economics,Yes,137.0,4,2,12.1,12.3,Enrolled
+Female,38,Single,Special,Management,No,116.1,6,6,12.8,14.3,Dropout
+Female,32,Single,Transfer,Psychology,No,97.7,7,5,11.8,12.9,Graduate
+Female,24,Single,Exam,Economics,No,152.4,4,4,12.2,12.9,Enrolled
+Female,29,Single,Transfer,Computer Science,Yes,136.9,4,3,12.3,12.0,Enrolled
+Female,37,Single,Exam,Management,No,128.8,6,4,10.7,13.3,Graduate
+Female,17,Single,Online,Engineering,No,124.8,7,5,11.2,11.5,Graduate
+Female,32,Single,Exam,Engineering,No,151.0,5,5,11.6,10.8,Graduate
+Male,23,Single,Transfer,Psychology,No,176.3,7,7,12.5,13.8,Graduate
+Male,21,Single,Transfer,Engineering,Yes,136.7,6,4,11.9,12.0,Dropout
+Female,38,Single,Transfer,Management,No,114.6,7,7,14.3,14.8,Graduate
+Female,39,Single,Online,Management,No,127.7,6,5,13.7,14.0,Graduate
+Female,19,Single,Online,Engineering,Yes,136.5,6,6,11.6,12.3,Graduate
+Female,28,Married,Special,Management,No,94.8,5,4,14.8,13.3,Graduate
+Female,32,Single,Transfer,Psychology,No,135.0,4,3,15.7,13.5,Graduate
+Female,35,Married,Exam,Economics,No,136.5,6,5,7.9,10.1,Enrolled
+Female,21,Married,Online,Psychology,Yes,149.9,6,5,13.9,14.3,Enrolled
+Female,38,Single,Transfer,Psychology,Yes,148.3,5,4,10.6,11.8,Graduate
+Male,30,Married,Transfer,Management,No,131.7,6,6,13.6,11.0,Graduate
+Female,21,Other,Online,Economics,No,152.7,4,3,14.5,16.1,Graduate
+Male,31,Single,Special,Management,Yes,160.5,5,5,10.2,9.4,Enrolled
+Female,33,Single,Online,Computer Science,No,130.4,4,3,8.3,7.1,Graduate
+Female,30,Married,Online,Management,No,136.3,4,2,13.7,13.6,Graduate
+Male,36,Married,Exam,Management,Yes,103.5,5,4,12.3,10.8,Graduate
+Female,21,Single,Exam,Management,No,108.2,6,4,8.7,8.7,Graduate
+Male,28,Married,Special,Economics,Yes,117.4,4,3,17.1,16.9,Graduate
+Female,32,Married,Transfer,Management,No,123.3,4,3,13.2,14.8,Graduate
+Female,32,Married,Online,Economics,No,113.6,4,3,13.3,15.6,Graduate
+Male,37,Married,Special,Engineering,Yes,129.5,4,2,14.7,16.9,Graduate
+Female,23,Married,Exam,Computer Science,No,123.8,5,3,10.8,7.4,Graduate
+Male,20,Single,Online,Economics,No,146.1,5,4,12.3,10.9,Graduate
+Female,17,Single,Transfer,Engineering,No,122.9,7,7,9.4,6.0,Graduate
+Male,21,Single,Exam,Economics,No,95.7,7,6,10.8,9.0,Graduate
+Male,39,Married,Exam,Economics,No,131.9,4,2,12.8,11.8,Graduate
+Female,26,Single,Exam,Computer Science,Yes,129.8,6,5,8.7,9.3,Enrolled
+Female,38,Single,Special,Psychology,Yes,117.1,4,2,10.7,9.9,Enrolled
+Male,21,Single,Transfer,Psychology,Yes,131.4,6,4,10.1,9.4,Graduate
+Female,20,Single,Online,Economics,No,113.9,4,2,12.3,12.6,Graduate
+Female,18,Married,Special,Management,No,134.9,7,6,13.1,10.5,Graduate
+Female,36,Married,Special,Engineering,No,169.5,7,5,13.5,12.2,Graduate
+Male,26,Single,Special,Management,Yes,102.9,6,4,14.0,13.2,Graduate
+Male,35,Single,Exam,Management,No,122.3,4,3,14.7,14.4,Graduate
+Male,17,Single,Transfer,Economics,No,119.9,6,4,13.2,13.3,Graduate
+Male,21,Single,Special,Economics,No,123.5,7,6,15.8,18.1,Graduate
+Male,29,Single,Online,Economics,No,145.3,4,2,12.2,13.6,Dropout
+Male,20,Single,Transfer,Economics,Yes,138.1,4,4,11.7,10.5,Enrolled
+Male,32,Single,Online,Psychology,Yes,142.7,6,6,13.2,12.8,Enrolled
+Male,32,Single,Transfer,Economics,No,130.5,5,3,11.6,11.1,Enrolled
+Male,39,Single,Online,Psychology,No,110.2,6,6,15.7,14.9,Graduate
+Female,18,Single,Exam,Psychology,No,113.3,7,6,14.3,14.7,Enrolled
+Male,33,Single,Special,Economics,No,141.2,7,7,13.5,10.7,Dropout
+Female,36,Single,Online,Computer Science,No,132.6,7,5,12.3,13.6,Enrolled
+Female,28,Married,Transfer,Engineering,No,148.9,7,5,11.2,13.7,Dropout
+Female,34,Single,Special,Management,No,134.4,7,6,13.4,13.0,Graduate
+Male,19,Single,Special,Psychology,No,112.3,5,3,9.7,9.3,Graduate
+Male,17,Married,Transfer,Engineering,No,122.2,4,3,15.1,15.3,Graduate
+Male,17,Single,Online,Computer Science,No,138.5,6,6,11.6,13.1,Enrolled
+Male,35,Married,Exam,Management,No,140.7,6,6,12.6,12.1,Dropout
+Female,27,Single,Exam,Management,No,142.8,7,6,10.2,11.6,Enrolled
+Male,21,Other,Online,Psychology,No,114.3,6,5,13.4,14.1,Graduate
+Male,28,Married,Special,Economics,Yes,112.0,7,5,11.1,14.6,Enrolled
+Male,19,Married,Special,Computer Science,No,127.2,5,5,13.3,12.8,Graduate
+Male,17,Married,Special,Psychology,No,151.6,5,4,13.5,10.5,Enrolled
+Male,17,Single,Special,Computer Science,No,119.6,4,4,10.7,8.6,Graduate
+Female,24,Single,Online,Economics,No,136.8,5,4,9.8,9.8,Enrolled
+Male,26,Married,Special,Economics,No,136.8,5,5,15.1,16.6,Enrolled
+Female,27,Single,Transfer,Psychology,No,141.4,4,2,11.6,10.6,Graduate
+Male,28,Married,Special,Economics,No,155.0,6,6,12.4,12.1,Enrolled
+Female,29,Single,Exam,Engineering,Yes,153.4,7,7,13.0,14.0,Dropout
+Male,28,Single,Special,Management,No,121.1,7,7,9.5,8.1,Graduate
+Male,30,Single,Online,Psychology,No,98.5,6,6,12.9,12.0,Graduate
+Female,18,Single,Exam,Computer Science,No,119.8,4,4,12.2,10.4,Graduate
+Female,35,Single,Online,Engineering,Yes,131.1,6,4,10.7,12.5,Enrolled
+Female,34,Single,Online,Psychology,Yes,124.6,5,4,9.7,12.0,Enrolled
+Male,19,Single,Exam,Economics,No,159.5,4,4,13.2,10.8,Enrolled
+Female,39,Single,Online,Economics,Yes,130.3,4,2,14.3,14.1,Dropout
+Male,33,Single,Online,Economics,Yes,139.8,4,4,12.4,14.5,Graduate
+Male,24,Married,Special,Economics,Yes,133.3,7,7,9.1,9.7,Graduate
+Female,26,Single,Transfer,Computer Science,Yes,124.8,6,5,9.9,9.2,Enrolled
+Female,18,Single,Online,Engineering,Yes,101.1,4,4,11.1,8.8,Graduate
+Male,35,Single,Online,Management,No,128.8,4,2,15.1,16.8,Enrolled
+Male,25,Married,Online,Computer Science,No,178.8,4,2,11.5,12.0,Graduate
+Female,23,Single,Special,Computer Science,No,111.3,6,5,11.1,8.9,Dropout
+Female,20,Married,Transfer,Management,No,102.8,7,7,8.7,10.5,Dropout
+Female,37,Other,Exam,Management,No,159.0,5,3,10.7,8.3,Graduate
+Male,34,Single,Special,Economics,Yes,141.1,7,7,9.5,9.2,Graduate
+Male,29,Single,Special,Computer Science,Yes,132.8,4,4,10.0,9.6,Graduate
+Male,27,Single,Transfer,Psychology,No,150.4,7,7,12.2,14.6,Dropout
+Male,20,Single,Transfer,Management,Yes,117.5,7,6,11.2,10.8,Enrolled
+Male,37,Single,Special,Management,No,128.4,5,5,15.4,15.0,Enrolled
+Male,20,Married,Exam,Engineering,No,144.3,6,4,14.2,12.2,Enrolled
+Female,26,Single,Special,Psychology,No,161.7,6,6,10.8,9.8,Graduate
+Male,21,Single,Transfer,Psychology,Yes,112.5,7,5,10.2,9.0,Dropout
+Male,25,Single,Exam,Management,No,149.2,7,7,14.8,13.7,Enrolled
+Male,19,Married,Transfer,Economics,No,135.7,6,4,15.3,15.3,Graduate
+Female,33,Single,Exam,Engineering,Yes,132.4,6,4,7.6,3.9,Enrolled
+Male,19,Single,Online,Psychology,No,129.9,5,5,12.2,9.9,Graduate
+Male,32,Married,Transfer,Management,No,109.2,4,4,11.5,11.3,Graduate
+Female,20,Married,Transfer,Psychology,No,144.4,7,5,13.3,13.5,Dropout
+Male,34,Single,Special,Engineering,Yes,118.3,6,5,15.9,15.5,Graduate
+Male,33,Single,Transfer,Engineering,No,113.8,7,7,11.0,10.9,Graduate
+Male,23,Married,Transfer,Computer Science,No,143.3,7,6,7.9,7.3,Enrolled
+Male,39,Single,Online,Management,No,141.8,6,6,13.2,13.2,Enrolled
+Male,21,Single,Transfer,Engineering,Yes,131.2,5,5,14.8,15.5,Enrolled
+Female,28,Single,Online,Computer Science,No,146.2,7,7,11.4,12.0,Graduate
+Female,33,Single,Online,Computer Science,Yes,151.4,5,5,10.6,9.6,Graduate
+Female,39,Married,Online,Psychology,No,149.6,6,5,11.1,12.5,Graduate
+Male,29,Married,Online,Psychology,Yes,122.1,4,4,13.7,13.9,Graduate
+Male,39,Single,Exam,Computer Science,No,145.2,4,2,11.1,12.9,Graduate
+Male,19,Single,Special,Psychology,No,133.2,7,5,12.7,14.8,Graduate
+Female,25,Single,Exam,Engineering,No,155.9,6,5,12.1,9.9,Enrolled
+Male,33,Single,Transfer,Economics,Yes,128.1,5,5,11.8,10.5,Graduate
+Male,33,Married,Exam,Engineering,Yes,124.7,7,5,13.4,14.6,Dropout
+Female,36,Single,Exam,Computer Science,No,120.8,6,5,11.0,8.5,Graduate
+Male,32,Single,Transfer,Computer Science,No,132.8,6,6,11.1,13.2,Enrolled
+Female,38,Single,Transfer,Engineering,Yes,137.0,5,3,13.6,13.1,Dropout
+Female,29,Single,Transfer,Psychology,No,137.3,7,5,10.0,10.9,Dropout
+Female,35,Single,Exam,Psychology,No,135.2,6,5,10.2,10.0,Enrolled
+Male,33,Married,Exam,Computer Science,No,140.1,6,6,9.5,7.4,Graduate
+Male,20,Single,Transfer,Management,No,126.7,6,6,13.7,15.3,Enrolled
+Male,28,Married,Special,Psychology,No,116.9,5,3,11.8,15.9,Graduate
+Male,25,Single,Special,Engineering,Yes,115.6,7,5,9.4,8.6,Enrolled
+Male,35,Single,Online,Psychology,No,144.6,7,5,13.7,13.2,Graduate
+Male,28,Single,Transfer,Engineering,No,137.1,7,7,10.9,6.9,Enrolled
+Male,25,Married,Online,Computer Science,Yes,102.2,7,6,10.3,12.3,Dropout
+Female,23,Married,Special,Psychology,No,146.5,4,3,11.6,13.0,Graduate
+Male,30,Single,Online,Engineering,No,158.2,4,4,15.0,12.4,Enrolled
+Female,36,Single,Transfer,Computer Science,No,119.3,7,6,11.2,8.1,Dropout
+Male,35,Married,Transfer,Management,No,135.0,5,3,13.2,10.3,Enrolled
+Male,31,Single,Transfer,Engineering,No,122.9,4,3,13.5,14.5,Dropout
+Male,32,Single,Exam,Management,No,139.4,6,5,12.9,14.0,Graduate
+Female,37,Married,Online,Management,Yes,112.5,4,3,14.5,13.1,Enrolled
+Female,21,Single,Special,Economics,No,128.9,6,4,10.6,11.3,Graduate
+Female,19,Single,Special,Psychology,Yes,144.7,7,7,9.9,10.1,Graduate
+Female,28,Single,Special,Engineering,No,148.5,4,2,9.9,9.3,Enrolled
+Male,36,Single,Exam,Management,No,136.4,5,5,11.7,13.2,Graduate
+Female,37,Single,Exam,Economics,No,124.9,4,4,10.1,8.3,Graduate
+Male,20,Married,Transfer,Computer Science,No,106.1,4,4,12.3,14.0,Graduate
+Male,37,Single,Special,Engineering,No,118.6,4,3,12.2,11.1,Graduate
+Female,39,Single,Exam,Management,No,123.0,7,6,14.0,16.7,Graduate
+Female,32,Single,Transfer,Psychology,No,119.5,5,5,12.6,11.1,Graduate
+Female,23,Single,Special,Economics,Yes,130.9,4,4,11.2,10.7,Enrolled
+Female,29,Other,Online,Management,No,124.9,5,4,12.8,12.9,Dropout
+Female,37,Single,Transfer,Psychology,No,132.6,7,5,9.9,10.0,Dropout
+Female,26,Single,Exam,Management,No,148.0,6,6,11.9,12.6,Enrolled
+Female,23,Married,Exam,Engineering,Yes,123.9,4,2,12.6,10.7,Enrolled
+Female,30,Single,Transfer,Engineering,Yes,109.3,5,4,12.3,12.2,Enrolled
+Male,21,Single,Transfer,Engineering,Yes,119.5,5,5,12.8,13.0,Dropout
+Female,19,Single,Exam,Economics,Yes,138.8,7,5,10.7,9.9,Graduate
+Female,39,Single,Online,Engineering,No,140.2,4,2,14.3,14.9,Graduate
+Male,27,Single,Special,Psychology,No,136.1,6,4,15.6,13.6,Graduate
+Female,27,Single,Online,Management,No,149.5,5,4,8.8,8.3,Enrolled
+Male,34,Married,Transfer,Computer Science,Yes,127.2,4,3,9.6,8.5,Graduate
+Male,31,Single,Online,Psychology,Yes,160.8,6,4,12.1,11.6,Graduate
+Female,28,Single,Exam,Psychology,Yes,142.3,5,3,11.5,13.7,Enrolled
+Male,25,Single,Transfer,Engineering,Yes,92.1,5,4,15.8,18.0,Enrolled
+Male,26,Single,Special,Economics,Yes,157.0,6,4,12.4,14.3,Graduate
+Male,28,Married,Exam,Management,Yes,118.5,6,4,14.8,14.1,Graduate
+Male,33,Single,Exam,Economics,No,114.5,7,6,7.9,9.3,Enrolled
+Female,22,Single,Special,Management,No,137.9,4,2,13.6,13.8,Dropout
+Male,23,Married,Special,Management,No,103.9,4,2,10.6,10.7,Dropout
+Female,30,Single,Online,Economics,No,119.6,7,5,10.5,10.4,Graduate
+Male,29,Single,Transfer,Psychology,No,153.4,5,4,11.5,14.1,Graduate
+Male,24,Single,Special,Management,Yes,138.3,6,4,9.2,11.2,Enrolled
+Male,26,Single,Special,Economics,Yes,142.2,6,5,12.9,14.0,Dropout
+Male,25,Married,Transfer,Management,No,120.1,6,5,12.4,12.1,Graduate
+Female,34,Single,Special,Computer Science,Yes,106.9,5,5,12.5,12.6,Graduate
+Female,18,Single,Special,Psychology,No,140.6,6,6,13.8,14.6,Enrolled
+Male,21,Single,Online,Engineering,No,144.0,6,4,15.0,14.2,Graduate
+Male,21,Married,Exam,Management,No,143.3,7,6,11.3,12.7,Dropout
+Female,22,Single,Exam,Computer Science,No,133.1,5,5,13.0,11.6,Enrolled
+Male,35,Married,Exam,Engineering,No,115.5,4,2,12.6,13.2,Graduate
+Male,24,Single,Exam,Engineering,Yes,166.6,7,7,12.8,9.4,Enrolled
+Male,32,Married,Special,Management,Yes,137.2,7,7,12.8,12.0,Graduate
+Female,29,Other,Transfer,Economics,No,127.4,4,3,15.2,18.3,Graduate
+Female,17,Married,Transfer,Management,No,127.5,7,6,11.1,12.7,Graduate
+Female,38,Married,Online,Computer Science,Yes,132.2,5,5,8.9,11.2,Dropout
+Male,36,Single,Online,Engineering,No,146.0,6,6,10.6,9.6,Dropout
+Male,33,Single,Special,Management,No,132.8,5,4,13.5,13.7,Enrolled
+Female,23,Single,Transfer,Economics,No,142.9,4,2,12.0,13.9,Graduate
+Female,29,Single,Transfer,Management,No,132.3,4,3,11.1,12.0,Graduate
+Female,20,Single,Exam,Psychology,No,128.3,7,7,9.8,10.6,Graduate
+Female,20,Single,Special,Economics,No,139.6,5,3,12.4,14.8,Graduate
+Male,22,Single,Special,Computer Science,No,139.0,5,5,13.3,11.7,Graduate
+Female,35,Single,Exam,Engineering,Yes,127.5,4,2,12.6,12.3,Graduate
+Male,28,Married,Special,Management,No,118.8,5,5,11.5,8.9,Enrolled
+Female,38,Single,Special,Economics,Yes,135.1,4,2,12.3,10.7,Enrolled
+Male,23,Married,Online,Psychology,No,131.2,5,3,12.3,13.9,Graduate
+Female,26,Married,Transfer,Economics,No,121.7,5,5,12.4,11.0,Dropout
+Female,35,Other,Special,Psychology,No,117.4,5,3,9.6,10.7,Dropout
+Female,23,Single,Online,Computer Science,No,136.2,4,3,12.4,14.9,Graduate
+Female,19,Married,Transfer,Engineering,Yes,138.3,7,7,11.1,10.8,Graduate
+Male,29,Other,Exam,Computer Science,Yes,124.6,5,4,14.1,14.9,Dropout
+Female,29,Married,Online,Management,No,121.3,4,4,12.3,13.4,Graduate
+Male,34,Single,Online,Economics,No,117.5,4,2,13.7,11.9,Graduate
+Male,36,Single,Transfer,Psychology,Yes,135.7,5,3,11.4,10.5,Enrolled
+Male,24,Single,Exam,Psychology,No,117.9,5,3,11.5,10.0,Dropout
+Male,25,Single,Online,Economics,No,163.6,7,7,15.0,14.2,Dropout
+Female,23,Single,Special,Economics,No,123.8,4,3,12.9,14.0,Graduate
+Male,17,Married,Special,Management,Yes,93.6,4,3,10.6,9.7,Graduate
+Male,19,Married,Special,Computer Science,No,129.5,6,6,13.8,13.7,Graduate
+Male,29,Single,Exam,Psychology,No,128.9,4,4,10.9,9.3,Graduate
+Female,33,Married,Online,Management,No,146.7,7,6,12.5,14.3,Dropout
+Female,17,Single,Special,Computer Science,No,134.3,6,5,15.7,14.9,Dropout
+Female,22,Married,Exam,Management,No,117.5,6,5,9.1,11.4,Graduate
+Female,37,Married,Special,Psychology,Yes,125.7,6,5,11.6,11.7,Dropout
+Male,22,Single,Transfer,Economics,No,134.9,5,5,12.8,10.7,Enrolled
+Male,28,Single,Online,Economics,No,97.5,5,5,13.5,13.2,Enrolled
+Female,29,Married,Online,Computer Science,Yes,150.1,4,2,9.5,7.9,Dropout
+Male,29,Single,Exam,Engineering,No,117.5,6,5,8.9,9.8,Enrolled
+Male,31,Single,Exam,Computer Science,Yes,151.3,7,5,14.2,13.8,Enrolled
+Male,37,Married,Online,Engineering,Yes,135.9,5,5,10.6,10.8,Enrolled
+Female,32,Single,Special,Management,No,139.4,7,7,10.5,9.9,Dropout
+Female,38,Married,Special,Management,No,147.2,7,5,15.1,14.3,Graduate
+Male,37,Single,Transfer,Psychology,No,138.6,5,4,12.1,10.6,Graduate
+Female,27,Married,Special,Engineering,Yes,140.1,5,4,12.2,13.5,Enrolled
+Female,21,Single,Exam,Psychology,No,127.5,5,4,11.6,11.3,Graduate
+Female,20,Other,Exam,Economics,Yes,135.6,5,4,9.6,9.1,Enrolled
+Female,19,Married,Special,Engineering,No,121.2,6,4,13.4,13.1,Graduate
+Female,35,Single,Exam,Computer Science,No,124.8,6,4,12.8,11.8,Graduate
+Male,36,Single,Online,Economics,No,159.5,6,6,12.3,11.8,Graduate
+Female,34,Other,Online,Economics,No,117.9,6,5,11.8,12.1,Graduate
+Male,31,Single,Special,Computer Science,No,132.3,4,3,11.4,9.8,Dropout
+Male,25,Single,Online,Economics,No,131.7,6,5,13.8,12.5,Dropout
+Female,33,Single,Online,Engineering,No,125.3,5,3,11.7,13.8,Graduate
+Male,30,Single,Transfer,Psychology,No,137.7,7,6,11.9,11.4,Enrolled
+Male,31,Married,Transfer,Economics,No,138.8,6,4,13.1,12.3,Enrolled
+Male,17,Single,Online,Engineering,Yes,116.1,4,3,12.4,10.4,Graduate
+Female,37,Single,Special,Management,Yes,131.5,5,4,15.3,16.6,Graduate
+Female,38,Single,Transfer,Engineering,No,113.8,7,7,8.5,6.9,Graduate
+Male,38,Single,Exam,Psychology,Yes,141.8,7,6,12.6,12.6,Enrolled
+Female,19,Single,Exam,Engineering,Yes,132.6,6,5,10.6,8.0,Graduate
+Female,32,Single,Exam,Computer Science,No,131.2,7,7,10.1,11.3,Dropout
+Female,39,Married,Special,Psychology,No,139.9,6,4,11.1,12.9,Dropout
+Female,27,Single,Online,Management,No,125.9,6,4,12.1,12.8,Graduate
+Male,28,Single,Exam,Computer Science,No,143.7,5,4,12.2,9.9,Dropout
+Male,26,Married,Special,Engineering,No,115.8,5,3,9.0,10.3,Enrolled
+Female,32,Single,Transfer,Psychology,Yes,151.2,4,3,10.9,9.7,Graduate
+Female,24,Married,Online,Management,No,121.7,5,5,12.6,10.8,Enrolled
+Male,22,Single,Transfer,Computer Science,Yes,104.6,5,5,10.2,9.6,Dropout
+Male,28,Single,Special,Management,No,125.1,6,5,9.8,9.2,Enrolled
+Female,37,Single,Exam,Engineering,No,123.4,5,5,7.5,6.7,Enrolled
+Male,24,Single,Exam,Management,No,125.0,6,6,10.7,12.6,Enrolled
+Female,20,Married,Special,Economics,No,133.5,6,5,9.7,12.7,Graduate
+Female,24,Single,Exam,Computer Science,No,146.5,5,4,10.0,7.9,Graduate
+Male,34,Single,Online,Management,Yes,127.1,4,4,11.5,10.5,Enrolled
+Male,21,Single,Special,Engineering,No,119.6,4,2,10.8,11.0,Graduate
+Female,25,Single,Transfer,Engineering,Yes,113.1,7,5,9.7,9.1,Dropout
+Female,20,Married,Special,Management,Yes,123.0,7,6,7.8,8.4,Enrolled
+Male,38,Single,Online,Engineering,Yes,101.7,5,4,12.6,14.0,Graduate
+Female,33,Single,Online,Psychology,No,119.1,4,2,13.5,14.6,Enrolled
+Male,25,Single,Special,Psychology,No,148.7,6,6,11.2,12.1,Graduate
+Female,17,Single,Special,Psychology,Yes,117.6,7,5,11.5,14.0,Enrolled
+Male,37,Married,Exam,Economics,No,139.4,6,4,12.0,9.6,Graduate
+Male,36,Single,Online,Management,No,111.6,7,5,15.2,17.4,Enrolled
+Male,29,Married,Special,Economics,Yes,156.6,5,3,8.9,8.3,Enrolled
+Female,32,Single,Special,Engineering,No,157.6,4,3,11.2,12.4,Enrolled
+Female,29,Single,Online,Economics,No,138.9,7,6,8.6,7.1,Graduate
+Male,30,Other,Special,Engineering,No,159.9,4,4,12.7,11.3,Graduate
+Female,19,Single,Exam,Engineering,No,135.3,6,6,11.7,12.7,Graduate
+Male,22,Single,Online,Computer Science,Yes,141.5,5,5,12.4,9.5,Enrolled
+Male,34,Married,Exam,Psychology,No,148.9,4,4,12.3,13.8,Dropout
+Female,35,Single,Exam,Engineering,No,132.7,5,3,14.0,15.9,Enrolled
+Female,21,Married,Exam,Computer Science,No,106.7,4,3,13.1,13.4,Graduate
+Male,31,Single,Exam,Psychology,Yes,141.8,6,5,13.7,13.9,Graduate
+Female,18,Married,Online,Engineering,No,122.9,6,6,9.9,8.6,Enrolled
+Female,26,Married,Exam,Engineering,No,124.0,5,5,14.4,15.4,Graduate
+Male,34,Single,Exam,Economics,Yes,134.5,6,4,10.6,11.1,Enrolled
+Male,29,Married,Special,Economics,No,138.5,7,5,10.7,9.3,Graduate
+Female,21,Single,Online,Psychology,No,132.3,4,4,12.5,11.9,Graduate
+Male,39,Other,Online,Engineering,No,139.5,6,5,12.6,12.4,Enrolled
+Male,17,Single,Transfer,Management,No,119.4,7,6,9.9,9.3,Enrolled
+Female,38,Single,Online,Economics,No,129.4,5,4,11.7,9.7,Graduate
+Male,17,Single,Online,Psychology,No,142.7,7,7,15.0,16.0,Graduate
+Male,34,Single,Transfer,Engineering,No,156.6,5,4,9.1,8.7,Graduate
+Female,31,Single,Online,Engineering,Yes,161.9,5,3,15.0,15.0,Graduate
+Female,33,Married,Online,Management,No,136.5,4,2,11.5,10.6,Enrolled
+Male,27,Married,Online,Psychology,No,142.6,4,4,7.3,8.0,Graduate
+Male,37,Other,Online,Engineering,No,159.7,7,5,9.3,9.6,Graduate
+Female,38,Single,Transfer,Economics,No,119.9,4,4,10.1,11.9,Graduate
+Female,33,Single,Online,Management,Yes,139.4,4,3,10.8,11.5,Enrolled
+Female,29,Single,Online,Psychology,No,141.5,4,3,11.8,11.5,Enrolled
+Female,17,Single,Transfer,Management,No,151.7,7,6,6.6,5.5,Enrolled
+Male,18,Single,Special,Economics,No,112.9,6,4,12.4,13.7,Dropout
+Female,25,Single,Exam,Psychology,No,115.9,4,4,9.9,9.5,Dropout
+Female,19,Married,Special,Management,No,130.3,4,3,14.8,14.5,Enrolled
+Male,17,Single,Transfer,Computer Science,Yes,135.7,7,7,11.5,11.2,Dropout
+Female,37,Single,Exam,Economics,No,146.8,6,5,13.9,13.3,Dropout
+Male,32,Single,Transfer,Economics,Yes,137.8,4,2,14.2,14.0,Graduate
+Female,39,Single,Transfer,Economics,Yes,127.7,5,3,14.2,17.1,Dropout
+Female,22,Single,Online,Computer Science,No,136.2,7,7,10.9,9.3,Dropout
+Female,33,Other,Exam,Computer Science,Yes,134.5,4,2,10.8,9.6,Enrolled
+Male,21,Single,Online,Engineering,No,156.2,4,2,11.6,13.7,Enrolled
+Male,21,Single,Exam,Management,No,132.5,5,5,13.3,12.7,Graduate
+Female,22,Single,Transfer,Engineering,No,124.3,5,4,11.0,10.3,Dropout
+Male,19,Married,Transfer,Management,Yes,136.7,7,5,11.8,13.4,Graduate
+Male,37,Other,Special,Computer Science,No,133.0,7,7,12.5,10.4,Graduate
+Male,39,Married,Exam,Computer Science,Yes,106.4,5,3,10.2,11.4,Graduate
+Male,21,Single,Online,Engineering,No,129.8,7,5,10.1,10.2,Graduate
+Male,37,Single,Special,Psychology,No,128.5,5,3,11.7,12.4,Graduate
+Male,21,Single,Special,Engineering,No,121.8,4,2,11.9,12.6,Graduate
+Female,26,Other,Special,Management,No,145.5,5,5,12.9,12.0,Dropout
+Female,26,Married,Online,Engineering,No,118.2,5,5,13.3,14.9,Enrolled
+Male,35,Single,Special,Economics,Yes,136.8,6,6,9.8,9.0,Graduate
+Female,33,Married,Online,Management,No,127.8,5,3,10.4,11.0,Enrolled
+Female,37,Married,Special,Management,No,131.6,5,3,10.1,12.0,Dropout
+Female,30,Single,Online,Psychology,No,136.2,6,4,14.8,16.9,Graduate
+Female,25,Other,Transfer,Computer Science,Yes,110.4,7,7,11.8,11.4,Graduate
+Male,30,Married,Transfer,Management,Yes,132.9,6,4,12.0,12.7,Dropout
+Female,17,Single,Transfer,Computer Science,Yes,164.3,4,3,12.1,11.6,Graduate
+Female,35,Single,Transfer,Engineering,No,106.6,6,4,10.6,14.4,Dropout
+Male,29,Single,Transfer,Economics,No,129.1,4,3,15.1,16.3,Graduate
+Male,29,Single,Special,Psychology,No,146.8,7,5,12.8,12.9,Enrolled
+Female,20,Single,Special,Computer Science,No,134.5,6,6,12.1,12.6,Enrolled
+Female,17,Single,Special,Management,Yes,140.3,6,4,9.8,10.4,Graduate
+Female,33,Other,Online,Computer Science,No,94.4,7,6,9.7,10.4,Enrolled
+Female,24,Single,Online,Management,No,139.0,4,3,11.4,11.0,Graduate
+Female,18,Single,Online,Computer Science,No,118.6,6,4,10.6,10.0,Enrolled
+Female,24,Single,Online,Management,No,134.6,4,3,9.9,9.7,Enrolled
+Male,23,Single,Transfer,Engineering,No,129.6,6,5,11.3,9.6,Graduate
+Female,18,Married,Transfer,Management,No,164.2,5,5,11.6,12.7,Dropout
+Female,38,Single,Transfer,Management,Yes,138.2,6,4,12.3,11.1,Enrolled
+Male,38,Single,Exam,Economics,Yes,128.3,7,5,11.0,9.4,Enrolled
+Male,19,Single,Special,Management,No,107.4,7,5,10.0,10.0,Graduate
+Male,34,Married,Online,Economics,Yes,131.8,4,3,10.1,9.9,Graduate
+Male,28,Married,Online,Psychology,No,142.3,6,4,14.4,14.8,Graduate
+Female,17,Single,Transfer,Economics,Yes,128.8,4,2,9.5,8.6,Enrolled
+Female,38,Single,Online,Engineering,No,122.4,4,4,12.7,12.1,Enrolled
+Female,28,Single,Online,Economics,Yes,121.4,5,5,13.0,14.0,Enrolled
+Female,21,Single,Special,Psychology,No,138.0,5,5,11.8,12.7,Graduate
+Female,33,Single,Transfer,Engineering,No,141.4,7,6,15.5,16.4,Enrolled
+Female,32,Single,Special,Computer Science,Yes,150.4,4,2,13.0,13.1,Graduate
+Male,31,Single,Exam,Computer Science,Yes,115.1,7,7,15.7,16.0,Enrolled
+Female,39,Single,Exam,Economics,No,137.9,6,6,10.7,11.0,Graduate
+Male,31,Married,Exam,Economics,No,128.2,4,4,10.7,9.7,Graduate
+Male,21,Single,Transfer,Psychology,Yes,128.6,4,2,13.1,15.3,Graduate
+Female,37,Single,Online,Psychology,No,136.0,6,4,11.5,13.5,Enrolled
+Male,30,Single,Transfer,Management,Yes,136.1,6,4,15.4,16.6,Dropout
+Female,18,Single,Transfer,Psychology,No,137.9,7,6,12.7,12.1,Enrolled
+Male,27,Married,Online,Management,No,114.1,7,6,9.9,10.7,Enrolled
+Female,35,Single,Special,Engineering,No,118.8,6,6,8.5,10.0,Dropout
+Male,23,Single,Exam,Economics,No,152.3,7,5,11.8,10.0,Graduate
+Female,22,Married,Special,Engineering,Yes,126.7,6,6,11.8,14.3,Enrolled
+Female,18,Single,Exam,Psychology,No,134.6,4,2,12.6,10.0,Graduate
+Female,22,Single,Transfer,Engineering,Yes,145.8,4,2,14.4,15.5,Graduate
+Female,34,Married,Exam,Engineering,No,137.0,5,3,14.2,16.4,Dropout
+Female,18,Single,Transfer,Engineering,No,138.2,4,3,10.8,10.6,Graduate
+Male,34,Single,Special,Psychology,No,143.4,6,5,9.4,9.2,Dropout
+Male,31,Other,Transfer,Engineering,Yes,98.3,7,5,9.5,10.5,Enrolled
+Male,35,Single,Special,Management,Yes,122.7,5,5,10.5,13.3,Enrolled
+Female,18,Single,Online,Psychology,No,137.0,7,5,11.3,10.9,Graduate
+Male,36,Single,Online,Engineering,No,150.8,6,4,12.6,11.4,Dropout
+Female,22,Married,Online,Psychology,Yes,131.0,4,4,10.4,9.8,Enrolled
+Female,17,Single,Transfer,Computer Science,No,117.3,5,3,12.6,10.3,Graduate
+Male,31,Single,Online,Management,Yes,117.7,6,6,12.7,14.0,Enrolled
+Male,39,Single,Exam,Engineering,No,143.3,5,4,12.3,11.5,Graduate
+Female,26,Single,Special,Computer Science,No,126.7,5,4,9.7,9.4,Graduate
+Male,35,Single,Special,Computer Science,No,129.9,4,4,12.9,14.3,Graduate
+Female,33,Single,Exam,Psychology,Yes,139.2,6,5,16.2,15.6,Dropout
+Female,21,Single,Transfer,Computer Science,No,86.5,7,6,12.5,13.6,Enrolled
+Female,20,Single,Transfer,Management,Yes,160.0,5,5,6.1,4.5,Enrolled
+Female,26,Single,Special,Management,No,119.0,5,4,14.5,15.9,Enrolled
+Female,33,Single,Online,Economics,Yes,133.6,7,5,10.6,11.1,Enrolled
+Male,26,Single,Transfer,Management,No,104.4,6,4,16.5,16.4,Enrolled
+Male,33,Single,Transfer,Computer Science,No,123.7,5,5,12.2,12.4,Graduate
+Female,36,Married,Exam,Management,No,148.7,5,4,8.6,6.7,Graduate
+Female,21,Single,Exam,Psychology,No,101.3,5,3,7.9,8.1,Dropout
+Male,18,Single,Online,Economics,No,146.9,6,4,15.1,14.9,Enrolled
+Male,22,Single,Transfer,Computer Science,No,125.9,6,5,14.2,12.3,Enrolled
+Female,37,Married,Transfer,Economics,No,137.3,7,6,16.5,15.5,Enrolled
+Male,18,Married,Exam,Computer Science,No,139.9,6,4,12.0,11.8,Graduate
+Female,29,Single,Transfer,Psychology,No,136.6,6,4,11.9,11.0,Graduate
+Male,27,Single,Special,Economics,No,117.0,4,4,11.2,7.6,Graduate
+Female,27,Married,Exam,Engineering,No,124.5,7,7,10.7,12.3,Graduate
+Male,32,Single,Online,Computer Science,No,108.1,5,3,11.2,11.0,Graduate
+Female,27,Single,Exam,Engineering,Yes,137.4,6,6,12.4,9.0,Graduate
+Male,35,Single,Transfer,Economics,Yes,155.5,5,3,10.3,13.5,Enrolled
+Male,31,Single,Online,Engineering,Yes,102.6,5,3,8.7,10.6,Graduate
+Female,39,Other,Exam,Engineering,Yes,118.6,4,4,12.3,11.8,Enrolled
+Male,39,Married,Special,Economics,Yes,127.3,6,6,10.3,9.0,Dropout
+Female,32,Single,Special,Psychology,No,132.6,7,6,5.5,6.1,Enrolled
+Male,27,Single,Exam,Engineering,Yes,143.2,6,5,13.1,13.4,Enrolled
+Female,38,Other,Special,Engineering,No,127.7,5,4,9.8,10.6,Graduate
+Male,32,Married,Special,Psychology,Yes,125.3,7,5,13.3,12.0,Enrolled
+Female,24,Single,Special,Engineering,Yes,146.5,6,6,13.3,14.9,Enrolled
+Male,20,Married,Online,Engineering,No,139.9,5,3,12.6,11.9,Enrolled
+Female,24,Other,Special,Engineering,No,138.1,5,5,17.0,18.0,Graduate
+Male,20,Married,Special,Management,Yes,131.7,4,2,11.7,10.5,Dropout
+Female,19,Single,Special,Psychology,No,144.7,4,3,11.4,15.4,Graduate
+Female,19,Single,Online,Engineering,No,120.2,4,3,13.4,14.4,Graduate
+Female,34,Married,Exam,Psychology,No,118.1,5,4,11.9,16.2,Graduate
+Male,35,Single,Transfer,Computer Science,No,141.2,6,4,14.3,15.5,Graduate
+Female,35,Married,Special,Computer Science,No,105.6,4,4,9.5,8.7,Dropout
+Male,37,Single,Exam,Engineering,No,131.4,6,6,9.5,10.7,Enrolled
+Female,21,Single,Special,Psychology,No,125.3,4,3,13.5,14.9,Graduate
+Male,34,Single,Online,Psychology,No,108.9,7,6,9.7,10.3,Dropout
+Female,26,Single,Exam,Psychology,Yes,116.0,7,6,13.2,14.1,Enrolled
+Male,38,Other,Online,Management,No,128.4,4,3,12.7,13.8,Graduate
+Male,37,Married,Special,Computer Science,Yes,145.5,5,5,10.6,9.1,Enrolled
+Female,22,Married,Special,Psychology,No,120.2,4,2,12.7,11.1,Graduate
+Male,17,Single,Online,Psychology,No,148.2,4,2,9.5,8.3,Dropout
+Male,21,Single,Transfer,Management,No,130.9,5,3,10.0,10.2,Graduate
+Female,25,Single,Online,Management,Yes,149.7,7,5,11.5,11.2,Graduate
+Male,28,Single,Special,Psychology,Yes,120.9,6,5,12.2,10.7,Graduate
+Male,30,Single,Online,Economics,No,129.3,4,3,11.4,12.6,Enrolled
+Male,18,Single,Transfer,Psychology,No,135.5,5,4,12.9,13.3,Graduate
+Female,33,Single,Online,Psychology,No,127.3,4,2,12.8,13.1,Graduate
+Male,30,Single,Transfer,Management,Yes,144.3,5,4,15.1,14.7,Enrolled
+Female,29,Other,Transfer,Management,No,96.9,6,5,11.8,11.2,Enrolled
