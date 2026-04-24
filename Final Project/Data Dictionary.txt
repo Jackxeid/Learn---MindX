@@ -1,0 +1,69 @@
+----------------------------------------------------------------------------------
+- Invoice ID
++ Mô tả: Mã định danh duy nhất cho mỗi hóa đơn/giao dịch.
++ Ghi chú: Định dạng chuỗi ký tự duy nhất, giúp truy xuất thông tin từng đơn hàng.
+----------------------------------------------------------------------------------
+- Branch
++ Mô tả: Mã chi nhánh của siêu thị.
++ Ghi chú: Bao gồm 3 chi nhánh chính: A, B, và C.
+----------------------------------------------------------------------------------
+- City
++ Mô tả: Thành phố nơi chi nhánh siêu thị tọa lạc.
++ Ghi chú: Gồm 3 thành phố tại Myanmar: Yangon, Mandalay, và Naypyitaw.
+----------------------------------------------------------------------------------
+- Customer type
++ Mô tả: Loại khách hàng thực hiện giao dịch.
++ Ghi chú: Phân loại thành 2 nhóm: Member (Thành viên có thẻ) và Normal (Khách lẻ).
+----------------------------------------------------------------------------------
+- Gender
++ Mô tả: Giới tính của khách hàng.
++ Ghi chú: Bao gồm: Female (Nữ) và Male (Nam).
+----------------------------------------------------------------------------------
+- Product line
++ Mô tả: Danh mục dòng sản phẩm được mua.
++ Ghi chú: Gồm 6 dòng hàng: Health and beauty, Electronic accessories, Home and lifestyle, Sports and travel, Food and beverages, Fashion accessories.
+----------------------------------------------------------------------------------
+- Unit price
++ Mô tả: Giá của một đơn vị sản phẩm (tính bằng USD).
++ Ghi chú: Giá trị số, biểu thị đơn giá niêm yết của mặt hàng.
+----------------------------------------------------------------------------------
+- Quantity
++ Mô tả: Số lượng sản phẩm khách hàng mua trong một giao dịch.
++ Ghi chú: Số nguyên, thường dao động từ 1 đến 10 sản phẩm.
+----------------------------------------------------------------------------------
+- Tax 5%
++ Mô tả: Số tiền thuế giá trị gia tăng (5%) áp dụng cho đơn hàng.
++ Ghi chú: Công thức tính: Unit_Price x Quantity x 5%.
+----------------------------------------------------------------------------------
+- Total
++ Mô tả: Tổng số tiền thanh toán cuối cùng của hóa đơn.
++ Ghi chú: Đã bao gồm thuế; Công thức: cogs + Tax.
+----------------------------------------------------------------------------------
+- Date
++ Mô tả: Ngày thực hiện giao dịch mua hàng.
++ Ghi chú: Định dạng ngày tháng năm (Dữ liệu mẫu thường từ tháng 1 đến tháng 3 năm 2019).
+----------------------------------------------------------------------------------
+- Time
++ Mô tả: Thời điểm (giờ) thực hiện giao dịch.
++ Ghi chú: Định dạng thời gian 24 giờ, dùng để phân tích các khung giờ cao điểm.
+----------------------------------------------------------------------------------
+- Payment
++ Mô tả: Phương thức thanh toán khách hàng sử dụng.
++ Ghi chú: Bao gồm 3 phương thức: Ewallet (Ví điện tử), Cash (Tiền mặt), và Credit card (Thẻ tín dụng).
+----------------------------------------------------------------------------------
+- cogs (Cost of Goods Sold)
++ Mô tả: Giá vốn hàng bán của giao dịch (chưa bao gồm thuế).
++ Ghi chú: Tính bằng $Unit\_price \times Quantity$.
+----------------------------------------------------------------------------------
+- gross margin percentage
++ Mô tả: Tỷ lệ phần trăm lợi nhuận gộp trên giá trị giao dịch.
++ Ghi chú: Trong bộ dữ liệu này, giá trị thường cố định ở mức xấp xỉ 4.76%.
+----------------------------------------------------------------------------------
+- gross income
++ Mô tả: Lợi nhuận gộp thu được từ giao dịch.
++ Ghi chú: Tính bằng công thức: $Total - cogs$.
+----------------------------------------------------------------------------------
+- Rating
++ Mô tả: Điểm đánh giá mức độ hài lòng của khách hàng về trải nghiệm mua sắm.
++ Ghi chú: Thang điểm từ 1 (kém nhất) đến 10 (tốt nhất).
+----------------------------------------------------------------------------------
